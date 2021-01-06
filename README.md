@@ -44,5 +44,5 @@
 
 [website]: https://ashishtiwari.netlify.app
 [instagram]: https://www.instagram.com/a_sh_tiwari_/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/ashishtwr314/
 
