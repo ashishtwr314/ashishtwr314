@@ -1,4 +1,4 @@
-### Hi there, I'm Ashish Tiwari [website] 👋
+### Hi there, I'm Ashish Tiwari 👋
 
 
 - 🔭 I just started learning Django.
