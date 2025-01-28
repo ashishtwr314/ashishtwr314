@@ -1,29 +1,57 @@
-# Hey, I'm Ash! 👋
+# Ash  
 
-I'm a passionate Fullstack Engineer with over 3 years of hands-on experience, relentlessly exploring the realms of technology. Currently immersed in the fascinating world of AI and ML.
+**Software Developer | Innovator | Problem Solver**  
 
-## Tech Stack 🚀
+---
 
-- **Frontend:** ![React](https://img.shields.io/badge/React-blue) ![Svelte](https://img.shields.io/badge/Svelte-orange) ![React Native](https://img.shields.io/badge/React_Native-brightgreen)
-- **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-green) ![Express](https://img.shields.io/badge/Express-brightgreen)
-- **Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-orange) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-orange)
-- **APIs:** ![Restful](https://img.shields.io/badge/Restful_APIs-blue) ![GraphQL](https://img.shields.io/badge/GraphQL_APIs-orange)
-- **Styling:** ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-orange) ![Bootstrap](https://img.shields.io/badge/Bootstrap-orange) ![MIUI](https://img.shields.io/badge/MIUI-orange) ![ShadCN ANTD](https://img.shields.io/badge/ShadCN_ANTD-red) ![Scss](https://img.shields.io/badge/Scss-blueviolet) ![Stylesheets](https://img.shields.io/badge/Stylesheets-critical) ![NextUI](https://img.shields.io/badge/NextUI-success)
+## 👨‍💻 Areas of Expertise  
+- **User Interface Development**: Crafting intuitive and dynamic UIs for web and mobile applications.  
+- **Application Development**: Building scalable dashboards, real-time applications, and full-stack solutions.  
+- **API Integration**: Seamlessly connecting diverse APIs to enable robust application functionality.  
+- **Real-Time Communication**: Implementing WebSocket-based solutions for real-time data updates and interactions.  
+- **Research and Development**: Exploring and experimenting with new technologies, tools, and architectures.  
+- **Collaborative Development**: Delivering impactful solutions through teamwork and innovation.  
 
-## Extra Skills 🛠️
+---
 
-- **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-blue) ![Python](https://img.shields.io/badge/Python-orange)
-- **Tools:** ![VSCode](https://img.shields.io/badge/VSCode-blue)
+## 🛠️ Skills  
 
-## Constantly Innovating 🌌
+### Frontend Development  
+- JavaScript, TypeScript  
+- Frameworks: Next.js, Vue.js, Svelte, React  
+- UI Libraries: Shadcn, Tailwind CSS, Bootstrap
 
-I thrive on experimenting with various JS technologies, always hungry for the next challenge and the latest tech trends.
+### Backend Development  
+- Node.js, Express.js  
+- Real-Time Communication: WebSockets, Socket.IO  
+- Databases: MongoDB, Supabase, Firebase, Pocketbase, PostgresQL  
 
-## Let's Connect 🌐
+### Mobile Development  
+- Hybrid App Frameworks: React Native, Capacitor, Ionic  
 
-- **LinkedIn:** [Your LinkedIn Profile](Your_LinkedIn_Profile_Link)
-- **Twitter:** [Your Twitter Profile](Your_Twitter_Profile_Link)
-- **Instagram:** [Your Instagram Profile](Your_Instagram_Profile_Link)
-- **YouTube:** [Your YouTube Channel](Your_YouTube_Channel_Link)
+### APIs  
+- RESTful APIs, GraphQL APIs  
 
-Dive into my repositories and join me on this coding adventure! 🚀
+### Tools & Platforms  
+- Low-Code/No-Code: Experience with headless CMS and low-code tools  
+- Version Control: Git, GitHub  
+- Testing: UI Testing and Debugging  
+
+---
+
+## 🌱 Currently Learning  
+- Scikit-learn  
+- TensorFlow  
+- Deep Learning  
+
+---
+
+## 📫 Get in Touch  
+Feel free to reach out or collaborate on exciting projects!  
+- **Email**: [ashishtwr314@gmail.com]  
+- **GitHub**: [https://github.com/ashishtwr314]  
+- **LinkedIn**: [https://www.linkedin.com/in/ashishtwr314/]  
+
+---
+
+*Passionate about turning ideas into functional, user-centric applications while constantly exploring new technologies.*  
