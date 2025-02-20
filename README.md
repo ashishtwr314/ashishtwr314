@@ -1,4 +1,4 @@
-# Ash  
+# Ash    [📥 Resume](https://ashtwr.vercel.app/resume.pdf)
 
 **Software Developer | Innovator | Problem Solver**  
 
